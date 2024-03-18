@@ -1,0 +1,47 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "0_CoD9JWQJKv16LLTWxih",
+      "type": "text",
+      "x": 762,
+      "y": -19.41889452711419,
+      "width": 1158.118896484375,
+      "height": 375,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1147173714,
+      "version": 1042,
+      "versionNonce": 1891329614,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1710283726867,
+      "link": null,
+      "locked": false,
+      "text": "Principais elementos que constituem um teste RSPEC\n\n\n1º Describe: É usado para definir um \"Grupo de exemplos\".\n            Pode receber um nome de classe ou uma string como parametros. \nExemplo: Hero Classe\n         '#destroy' String\n\n2º Context: Agrupa testes associados ao mesmo contexto.\n            Não é obrigatório más ajuda a tornar os testes mais legíveis e simples.\n\n3º It: É usado para definir um exemplo (teste).\n   Obs.: Pode ser inserido vários \"It\" em um context.\n\n4º Expec: É onde verificamos se uma determinada condição está ocorrendo para concluirmos que nosso teste passou.",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Principais elementos que constituem um teste RSPEC\n\n\n1º Describe: É usado para definir um \"Grupo de exemplos\".\n            Pode receber um nome de classe ou uma string como parametros. \nExemplo: Hero Classe\n         '#destroy' String\n\n2º Context: Agrupa testes associados ao mesmo contexto.\n            Não é obrigatório más ajuda a tornar os testes mais legíveis e simples.\n\n3º It: É usado para definir um exemplo (teste).\n   Obs.: Pode ser inserido vários \"It\" em um context.\n\n4º Expec: É onde verificamos se uma determinada condição está ocorrendo para concluirmos que nosso teste passou.",
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
